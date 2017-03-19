@@ -30,7 +30,7 @@ Now, let's meet the more evil PDF:
 
 Try doing an `Edit>Find` command to search for text in the PDF. If you see a word in the document and it's findable with Find/Replace, you've got yourself a text-based PDF. Congrats!
 
-Also, see [this detail StackOverflow discussion on further ways to determine the type of PDF you have](http://stackoverflow.com/questions/1489733/how-to-know-if-a-pdf-contains-only-images-or-has-been-ocr-scanned-for-searching)
+Also, see [this detailed StackOverflow discussion on further ways to determine the type of PDF you have](http://stackoverflow.com/questions/1489733/how-to-know-if-a-pdf-contains-only-images-or-has-been-ocr-scanned-for-searching)
 
 <--WIP-->
 
